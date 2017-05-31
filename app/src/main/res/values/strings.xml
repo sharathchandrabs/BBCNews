@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BBCNews</string>
+    <string name="bbc_title">BBC News</string>
+    <string name="showNews">Show News</string>
+    <string name="showBlocked">Show Blocked</string>
+    <string name="clearBlocked">Clear Blocked</string>
+    <string name="sortAtoZ">Sort A-Z</string>
+    <string name="sortZtoA">Sort Z-A</string>
+    <string name="url">http://feeds.bbci.co.uk/news/video_and_audio/technology/rss.xml</string>
+</resources>
